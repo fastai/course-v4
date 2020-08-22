@@ -1,3 +1,3 @@
-# course-v4
+# Practical Deep Learning for Coders
 
-This will be released in July 2020. In the meantime, please use course-v3, unless you are in the live course.
+These are the same notebooks as https://github.com/fastai/fastbook, except all the prose and outputs have been removed. That's so that you can use these notebooks to test your understanding of the material without accidentally "cheating".
