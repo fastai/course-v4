@@ -14,8 +14,10 @@ dependencies:
 - fastprogress>=0.1.22
 - pillow
 - python>=3.6
-- pip
 - scikit-learn
 - scipy
 - spacy
-
+- pip
+- pip:
+  - graphviz
+  - fastbook
