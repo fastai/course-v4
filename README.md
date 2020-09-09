@@ -1,3 +1,3 @@
-# Practical Deep Learning for Coders
+# Please use fastbook's `/clean` folder instead of this
 
-These are the same notebooks as https://github.com/fastai/fastbook, except all the prose and outputs have been removed. That's so that you can use these notebooks to test your understanding of the material without accidentally "cheating".
+This repo is no longer used - the information that was here is now in the main https://github.com/fastai/fastbook repo, in the folder called `/clean`.
